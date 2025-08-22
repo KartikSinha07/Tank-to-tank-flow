@@ -9,8 +9,8 @@ This repository contains a *CFD case in OpenFOAM* that simulates fluid transfer 
 - *Solver*: interFoam
 - *Physics*: Two-phase incompressible flow (water + air), gravity-driven
 - *Geometry*:
-  - Left Tank → initially filled with water
-  - Right Tank → initially filled with air
+  - Left-bottom Tank → initially filled with air
+  - Right-upper Tank → initially filled with water
   - Pipe → connects the two tanks
 - *Dimensions*: 2D (extruded 0.01 m in z-direction)
 - *Purpose*: Demonstrates free-surface flow, mixing, and turbulence between coupled tanks.
