@@ -2,7 +2,6 @@
 
 This repository contains a *CFD case in OpenFOAM* that simulates fluid transfer between two connected tanks through a short pipe using the interFoam solver (VOF multiphase model for water–air interaction).
 
-![Preview](docs/preview.jpg)
 
 ---
 
